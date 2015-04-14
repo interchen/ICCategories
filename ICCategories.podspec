@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
   s.name         = "ICCategories"
   s.version      = "0.1"
   s.summary      = "Collection some useful categories for Objective-C"
-  s.description  = 'Collection some useful categories for Objective-C'
+  #s.description  = 'Collection some useful categories for Objective-C'
   s.homepage     = "https://github.com/interchen/ICCategories.git"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 

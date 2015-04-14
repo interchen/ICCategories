@@ -1,2 +1,2 @@
 # ICCategories
-Some category for Objective-C
+Collecte some categories for Objective-C
