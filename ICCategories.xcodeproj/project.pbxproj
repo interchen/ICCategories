@@ -44,6 +44,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		4B60B7F81ADDF52900F3E78B /* ICCategoriesHeader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ICCategoriesHeader.h; sourceTree = "<group>"; };
 		4BA52FD61ADCBB0300B70C17 /* libICCategories.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libICCategories.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		4BA52FE11ADCBB0400B70C17 /* ICCategoriesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ICCategoriesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4BA52FE71ADCBB0400B70C17 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -113,6 +114,7 @@
 		4BA52FD81ADCBB0300B70C17 /* ICCategories */ = {
 			isa = PBXGroup;
 			children = (
+				4B60B7F81ADDF52900F3E78B /* ICCategoriesHeader.h */,
 				4BA52FF01ADCBB2700B70C17 /* NSAttributedString+Helper.h */,
 				4BA52FF11ADCBB2700B70C17 /* NSAttributedString+Helper.m */,
 				4BA52FF41ADCBB2700B70C17 /* NSDate+Helper.h */,
@@ -410,6 +412,7 @@
 				4BA52FEC1ADCBB0400B70C17 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4BA52FED1ADCBB0400B70C17 /* Build configuration list for PBXNativeTarget "ICCategoriesTests" */ = {
 			isa = XCConfigurationList;
@@ -418,6 +421,7 @@
 				4BA52FEF1ADCBB0400B70C17 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
